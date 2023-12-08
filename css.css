@@ -1,0 +1,17 @@
+#h1{
+    color: navy;
+    font-size: 2rem;
+}
+.he{
+    background-color: aqua;
+    display: flex;
+    gap: 5rem;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: red;
+}
+p{
+    font-size: 2rem;
+}
